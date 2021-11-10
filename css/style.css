@@ -2084,6 +2084,7 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 
   .rev__list {
     flex-direction: column;
+    margin-right: initial;
   }
 
   .rev__item + .rev__item {
